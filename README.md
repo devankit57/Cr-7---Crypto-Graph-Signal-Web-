@@ -1,4 +1,4 @@
-# Cr-7---Crypto-Graph-Signal-Web-
+# Crypto-Graph-Signal-Web-
 
 <p>This  website is developed with api providing data.</p>
 
